@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-custom-range/static/css/main.737b427c.css",
-    "main.js": "/react-custom-range/static/js/main.70be11a3.js",
+    "main.js": "/react-custom-range/static/js/main.773b2823.js",
     "index.html": "/react-custom-range/index.html",
     "main.737b427c.css.map": "/react-custom-range/static/css/main.737b427c.css.map",
-    "main.70be11a3.js.map": "/react-custom-range/static/js/main.70be11a3.js.map"
+    "main.773b2823.js.map": "/react-custom-range/static/js/main.773b2823.js.map"
   },
   "entrypoints": [
     "static/css/main.737b427c.css",
-    "static/js/main.70be11a3.js"
+    "static/js/main.773b2823.js"
   ]
 }
