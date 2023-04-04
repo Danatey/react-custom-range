@@ -40,7 +40,7 @@ function App() {
  const ref = useRef();
 
  const handleCheckpoint = () => {
-  const arr = [...checkpoints, plusX];
+  const arr = [...checkpoints, Math.round(plusX)];
   setCheckpoints(arr.sort((a, b) => a - b));
  };
 

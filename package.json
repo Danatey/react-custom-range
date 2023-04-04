@@ -15,7 +15,7 @@
    "homepage": "https://danatey.github.io/react-custom-range/",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build src/*.html --build-url /goit-react-hw-04-hooks-images/",
+    "build": "react-scripts build src/*.html --build-url /react-custom-range/",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
